@@ -1,3 +1,4 @@
+
 #Regression #ModelMisspecification 
 
 Quantifies multicollinearity in regression model. 

@@ -1,4 +1,4 @@
-#Regression 
+#Regression #Check
 
 A test for the presence of **first-order** serial correlation.
 
@@ -7,8 +7,8 @@ $$
 DW = \frac {\sum(\epsilon_t - \epsilon_{t-1})^2}{\sum\epsilon_t^2}
 	
 $$
-For large sample
-DW = 2(1-r); where r is the correlation of the residuals of one period with previous period
+- For large sample
+	  DW = 2(1-r); where r is the correlation of the residuals of one period with previous period
 
 $H_0$ : No positive serial correlation
 

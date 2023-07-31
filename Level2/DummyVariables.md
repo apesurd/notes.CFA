@@ -1,3 +1,4 @@
+
 #Regression 
 
 Dummy, or indicator, variables represent qualitative independent variables and take a value of 1 or 0 to indicate whether a specific condition applies. 
