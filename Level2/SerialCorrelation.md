@@ -1,8 +1,16 @@
 #Regression #ModelMisspecification 
 
+- Defined as correlation of data point with its previous values. The order of the correlation is given by k, where k represents the number of periods lagged. 
+- Also known as autocorrelation
+
+$$
+\rho_k = \frac{cov(x_t, x_{t-k})}{\sigma^2_x} = \frac{E[(x_t-\mu)(x_{t-k}-\mu)]}{\sigma^2_x}
+$$
+$$
+\hat{\rho_k} = \frac{\sum^T_{t=k+1}[(x_t - \overline{x})(x_{t-k}-\overline{x})]}{\sum^T_{t=1}(x_t-\overline{x})^2}
+$$
 - Regression errors are correlated across observations
 - commonly observed in time-series regressions. panel data (cross sectional time-series data)
-- Also known as autocorrelation
 
 > Consequently, assuming market efficiency (even weak form), we should not observe serial correlation in financial market data.
 

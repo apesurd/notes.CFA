@@ -8,3 +8,5 @@ A value of 2.0 would indicate there is no autocorrelation detected in the sample
 
 Greater than 2.0 implies negative correlation
 Less than 2.0 implies positive correlation.
+
+- Can't be used for AR models.
