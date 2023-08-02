@@ -1,0 +1,2 @@
+- Ranked category, i.e. order of the category matters. 
+-
