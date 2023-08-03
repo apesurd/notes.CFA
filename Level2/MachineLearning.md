@@ -21,9 +21,11 @@ While machine learning approaches try to find patterns based on large amount of 
 ### [[UnsupervisedLearning|Unsupervised learning]]
 
 ### Deep Learning and Reinforcement Learning
+- [[NeuralNetworks]]
 - [[DeepLearning|Deep Learning]]
 - [[ReinforcementLearning|Reinforcement Learning]] 
 
+> [!NOTE] Algorithms using some similarity metric don't give good prediction for complex non-linear data. e.g. KNN, KMeans, Hierarchical clustering, SVM etc.
 ## Evaluating performance
 
 Generalisation is an objective in model building, [[OverfittingML|OverFitting]] and [[Underfitting]] are problems in attaining this objective.
@@ -53,56 +55,5 @@ A [[RobustModel | Robust Model]] fits the training data well and generalizes wel
 1. Preventing the algo from getting too complex, i.e. [[Regularization]]
 2. Improve data sampling using [[CrossValidation]]
 
------
-
-
-
-Common supervised learning algos
-1. Regression
-2. Lasso regression
-3. CART
-4. random forest
-
-target vs features.
-
-## Overfitting
-Bias Error
-Variance Error
-Base error
-
-Accuracy rate plot with sample size
-Learning curve 
-error vs model complexity plot
-
-K-fold validation
-
-## Supervisor learning
-We go through each supervised ML model
-1. Penalized regression/ Regularization
-3. Lasso regression
-4. KNN
-5. SVM
-6. CART
-7. Ensemble learning (homo and hetero)
-8. decision tree
-
-## Unsupervised learning
-
-Dimensionality reduction
-- PCA
-	- eigenvalues
-	- eigenvectors
-	- how to choose the number of principle components (Scree plot)
-
-Clustering
-- Kmeans
-	- number k should be known in advance
-- Hierarchical clustering
-	- top down 
-	- bottom up
-
-## Neural nets
-Neural nets
-deep neural nets
-reinforcement learning
-
+## Choosing ML Algo
+![[Pasted image 20230803201031.png]]
