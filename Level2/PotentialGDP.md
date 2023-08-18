@@ -1,6 +1,10 @@
 #Economics 
 
+Max amt of output an economy can sustainably produce without inducing an increase in the inflation rate
+
+
 Potential GDP = Size of labour force x [[LabourProductivity]] per worker
+[[SolowsApproach]]
 
 Potential GDP = Size of hour worked x Labour productivity per hour
 

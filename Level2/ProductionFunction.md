@@ -1,5 +1,6 @@
 #Economics 
 
+
 Y = A x $f(L, K)$
 	where:
 		Y: Aggregate output

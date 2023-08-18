@@ -1,0 +1,7 @@
+#Economics 
+
+## [[SolowsApproach]]
+
+## [[LabourProductivityGAR]]
+
+
