@@ -25,8 +25,8 @@ Three steps:
 		   1. Average return 
 		   2. Maximum drawdown
 		   3. Volatility 
-		   4. Sharpe ratio 
-		   5. Sortino Ratio 
+		   4. [[SharpeRatio]]
+		   5. [[SortinoRatio]]
 		   6. VaR and CVaR 
 
 ## Type 
