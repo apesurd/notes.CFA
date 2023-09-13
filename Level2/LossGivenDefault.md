@@ -1,0 +1,3 @@
+#fixedIncome 
+
+[[ProbabilityOfDefault]] * [[LossSeverity]] 
