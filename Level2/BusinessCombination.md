@@ -26,3 +26,5 @@ Only acquirer, who would prepare the consolidated statement, needs to be identif
 - Pooling-of-interest method is no longer allowed. 
 
 See [[JointVenture]] 
+
+[[IssuesWithBusinessCombination]]
