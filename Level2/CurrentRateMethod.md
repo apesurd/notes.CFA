@@ -7,3 +7,8 @@
 2. All IS items: [[AverageRate_MA]]  (Since it's not point in time)
 3. Dividends declared: [[HistoricalRate_MA]] 
 4. [[CTA]] to balance accounting equation
+
+## Effect on ratios after [[Translation_MA]] 
+- Pure ratios^[where numerator and denominator both either belong to IS or to BS] won't be affected, since the same rate is used for translation. i.e. [[CurrentRate_MA]] for BS items and [[AverageRate_MA]] for IS items. 
+- For mixed ratios, where numerator is from IS and denominator is from BS, and the underlying currency is appreciating, then mixed ratios after translation would be lower, since [[CurrentRate_MA]] would be higher than [[AverageRate_MA]]. 
+- The opposite would be true for the reverse mixed ratio, when the underlying currency is depreciating. (currency depreciation implies decrease in FX rates.)

@@ -18,3 +18,5 @@ In case where monetary assets balances the monetary liabilities, there would be 
 This, however, is not doable for [[CurrentRateMethod]], since balancing all the assets with liabilities is not healthy for a company.
 
 >[!Tip] When local currency depreciates, it would reduce the FX rate too. In this chapter we refer to the FX rate as Presentation/Functional or Functional/Local. 
+
+>[!Note] Comparison b/w ratios after [[Translation_MA]] and [[Remeasurement_MA]] can be asked in the exam, so reason based on the rates being used.

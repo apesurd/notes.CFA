@@ -32,3 +32,9 @@ The same trend would be observed when the exchange rate is increasing, i.e. when
 
 - But in case exchange rate is decreasing, we can't say for certain which method would be affecting COGS more. 
 	- Depends on whether the price inflation or currency depreciation is more. 
+
+## Effects on ratios after [[Remeasurement_MA]] 
+- Since different rates are used for re-measurement, we can't make a general statement about how the ratios would be affected. 
+- We need to take into account the rates which would be used in re-measurement. 
+- Ratios like Fixed-Asset-Turnover (Revenue over Fixed Asset) can be determined easily, as [[AverageRate_MA]] and [[HistoricalRate_MA]], respectively, are being used for [[Remeasurement_MA]] . 
+	- But ratios like ROA can't be predicated since net income and total assets are calculated using different exchange rates. No general outcome can be determined. 
