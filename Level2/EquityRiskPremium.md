@@ -27,3 +27,41 @@ High P/E is:
 	4. $\downarrow$ equity risk premium
 
 See [[ShillersCAPE]]
+
+## Cost of capital 
+#CostOfCapital #issCorp 
+
+For a risk-averse investor, the required-rate-of-return should be higher than the risk-free-rate to convince him/her to invest. 
+
+If we aggregate all the risk-averse investors and all the stocks in the market, this aggregate return over the risk-free-rate is known as the [[Level2/EquityRiskPremium|EquityRiskPremium]] 
+
+`EquityRiskPremium = Required Return on equity - Risk-free rate 
+
+Two approaches:
+### Fwd Looking Estimates
+- Investor's expectations for future excess returns -> [[ExAnte]] 
+- Estimates: 
+	- Required rate of return -> Broad-based Equity Index 
+	- Risk-free rate -> Govt. Bond yield. 
+- Strength 
+	- Objective and simple 
+	- Unbiased estimate (if investors are rational)
+- Considerations while estimating: 
+  1. Equity index should accurately represent the avg returns earned by equity investors in the market. 
+  2. Select proxy for risk-free-rate. [[TBonds]] for LT and [[TBill]] for ST investors.  
+  3. Time period for the estimate: 
+	  1. Shorter time frame is stable, but not statistically significant 
+	  2. Longer time frame is statistically significant, but not stable. 
+	  3. ERP estimates are usually upward biased, due to [[SurvivorshipBias]] 
+	  4. Assumption: Mean and variance of the returns are constant over time. (i.e. [[CovarianceStationarity |Stationarity]] )
+> [!Note] Studies have shown that ERP is counter cyclical. 
+
+ 4. Calculate mean equity risk premium for the period. Can be [[ArithmaticMean]] or [[GeomericMean]] 
+### Historical Estimate
+- Excess return of stocks over a given period. -> [[ExPost]] 
+- Do not rely on an assumption of stationarity.
+- Less subject to [[SurvivorshipBias]] 
+- Can be calculated using: 
+	1. [[DividendDiscountModel]]
+	2. [[MacroEconomicModel_COE]] 
+	3. SurveyEstimates : Consensus expectations

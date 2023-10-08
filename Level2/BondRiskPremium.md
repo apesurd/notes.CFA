@@ -22,7 +22,7 @@ No contribution from economic growth.
 
 Changing benchmark rates have limited impact on LT rates.
 
-In the aftermath of 2008 and 2020, central bank bought back t-bonds, and MBS (known as quantitative easing) leading to fall in the LT interest rates as well. 
+In the aftermath of 2008 and 2020, central bank bought back [[TBonds]], and MBS (known as quantitative easing) leading to fall in the LT interest rates as well. 
 
 ## Effects of Fiscal Policy 
 During recession, central bank tends to keep the interest rate low, but govt would want to stimulate the economy by borrowing by issuing bonds.

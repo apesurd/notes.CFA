@@ -1,0 +1,1 @@
+Linearly interpolating the price of the bond based on the maturity. 

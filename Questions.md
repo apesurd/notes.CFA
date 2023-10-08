@@ -10,7 +10,9 @@
 8. What happens when a company defaults? 
 9. Valuation not affected much by non-cash expenses? 
 10. What is exit-barrier for a company? 
-11. 
+11. What are preferred stocks? 
+12. Common law vs civil law?
+13. 
 ## TODO 
 - Need to revise how receivables and payables are handled
 - 

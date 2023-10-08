@@ -14,3 +14,5 @@ Notes:
 3. Regression is done to estimate the value of factor returns, where sensitivities serve as dependent variables and return of the asset serves as independent variable.
 
 [[CarhartModel]] is a type of fundamental multifactor model 
+
+See [[FamaFrenchModel]]
