@@ -1,4 +1,4 @@
-#issCorp #ratio 
+#issCorp #ratio #EquityInvestements 
 
 Cash flow availability for shareholders. 
 

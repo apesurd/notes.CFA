@@ -1,0 +1,3 @@
+#EquityInvestements 
+
+See [[SustainableGrowthRate]] 
