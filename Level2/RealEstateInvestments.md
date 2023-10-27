@@ -91,7 +91,7 @@
 1. Management expertise 
 2. Unexpected inflation 
 3. Leverage 
-   - Measured by loan-to-value ratio. 
+   - Measured by [[LoanToValueRatio]]  
 4. Environmental 
    - Nearby developments negatively contaminate or devalue the property
 5. Obsolescence 
