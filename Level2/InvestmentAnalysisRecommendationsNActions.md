@@ -1,6 +1,6 @@
 #ethics 
 
-#pneumonic "Invite DilRBa's Common Records "
+#mnemonic  "Invite DilRBa's Common Records "
 
 ## Diligence and Reasonable basis
 > Members and Candidates must:

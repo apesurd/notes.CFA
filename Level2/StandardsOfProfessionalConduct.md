@@ -3,7 +3,7 @@
 > [!Tips]
 > 1. Check for works like LEAST and MOST LIKELY, in the question. 
 
-#pneumonic "Professionals In Dc Do Investment Conference Responsibly"
+#mnemonic  "Professionals In Dc Do Investment Conference Responsibly"
 
 - No need to remember the numbers exactly 
 - Each Standard is divided into subsections, and each subsection would have the definition, guidance^[specifics, kind of situations that the standard applies to, specific actions or prohibitions] and recommendations^[best practices prescribed by CFA institute and not a violation if not adhered to.]

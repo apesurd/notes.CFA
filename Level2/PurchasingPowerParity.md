@@ -2,7 +2,8 @@
 
 Ex-Ante form of PPP suggests relationship between Expected Inflation Rate Differentials and Expected change in Exchange Rate.
 
-Based on law of 1 Price.
+Foundation is based on [[LawOfOnePrice]].
+
 
 ## Absolute PPP 
 applied law of one price on the basket of goods, i.e. on CPI.
@@ -11,7 +12,7 @@ $s_{A/B}$ = $CPI_A / CPI_B$
 >[!Note] The above relationship only holds true if there are no trade restrictions and costs involved.
 
 ## Relative PPP
-Assuming there are no trade restrictions and cost:
+Assuming there are no changes in the trade restrictions and transaction costs:
 $$
 \%\Delta(s_{A/B}) = Inflation_A - Inflation_B
 $$

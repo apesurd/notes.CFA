@@ -1,4 +1,4 @@
-X#Economics 
+#economics 
 
 Derived exchange rates based on market available raw exchange rates for a very commonly traded currency pairs.
 

@@ -4,6 +4,6 @@ Labour productivity Growth Accounting Relation
 
 Potential GDP = Total Labour Force *  Labour productivity
 
-Potential GDP Growth = Growth in Labour Force + Growth in Labour productivity
+Potential GDP Growth = Growth in Labour Force + Growth in [[LabourProductivity]] 
 
 - Both Technological progress and capital deepening is reflected in *Growth in Labour productivity*

@@ -9,4 +9,6 @@ Y = A x $f(L, K)$
 		K: Amount of capital
 
 
+Both function, $f()$ and the scale factor A reflect technology. 
+
 See [[LabourProductivity]]

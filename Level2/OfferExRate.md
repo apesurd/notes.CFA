@@ -1,7 +1,7 @@
 #Economics 
 
 # Offer Exchange Rate
-Rate at which [[Dealer]] sells base currency
+Rate at which [[Dealer]] sells 1 unit of base currency
 
 - Also known as *AskRate*
 

@@ -1,6 +1,6 @@
 #ethics 
 
-#pneumonic "Pro Knows IndO Mr Mac"
+#mnemonic   "Pro Knows IndO Mr Mac"
 	- read "Pro knows indoor Mr Mac"
 
 Pro Knowledge IndObj Misrepresentation Misconduct 

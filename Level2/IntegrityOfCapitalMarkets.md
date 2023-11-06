@@ -1,6 +1,6 @@
 #ethics 
 
-#pneumonic "In-the Material Market"
+#mnemonic  "In-the Material Market"
 
 ## (A) Material Non-public information 
 

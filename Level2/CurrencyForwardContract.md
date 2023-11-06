@@ -4,13 +4,16 @@ Contract to exchange X amt of one currency for Y amt of another currency.
 The contract includes the time period, the exchange rate and the notional amount to be exchanged.
 
 [[ForwardExchangeRate]] quotes can be expressed as Absolute rate or Relative (wrt to the spot rate)
+> - When relative (as points), divide the points with 10,000 and then add it the current bid/ask rate to get the forward rate. 
+- Fwd rate is not annualised. 
 
 If fwd exchange rate is greater then spot exchange rate then there is a fwd premium,
-otherwise there is a fwd discount.
+or else there is a fwd discount.
 [[ForwardPremiumAndDiscount]]
 
 ## Mark-to-Market value of contract
 Profit/loss from closing out position at current market prices.
+Mark-to-market value at initiation would be 0, however, from that moment onwards the value of the contract will change as spot rates and interest changes in either of the two currencies.
 
 Steps to calculate:
 1. Create an offset contract against the OG contract, to be closed on the same date.

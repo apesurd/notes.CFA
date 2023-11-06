@@ -14,3 +14,6 @@ $$
 The above equation is not applicable in short term.
 
 **Growth in aggregate stock market prices has to match the growth in potential GDP.**
+
+---
+#revQ: Why in long term the last two expressions in the above equation become zero?

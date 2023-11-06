@@ -1,6 +1,6 @@
 #ethics 
 
-#pneumonic "Deers Lower Supermario's Compensation"
+#mnemonic  "Deers Lower Supermario's Compensation"
 
 ## Loyalty 
 > In matters related to their employment, Members and Candidates must act for the benefit of their employer and not deprive their employer of the advantage of their skills and abilities, divulge confidential information, or otherwise cause harm to their employer.

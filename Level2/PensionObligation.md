@@ -14,12 +14,12 @@ $$
  & \text{Beginning PBO} \\ 
  &+ \text{Current Service Cost (PV of benefits earned during current period)} \\ 
  &+ \text{Interest Cost (PBO in beginning * discount rate)} \\ 
- &(+/-) \; \text{Actuarial Gains/Losses (results from changes in assumptions)} \\ 
  &+ \text{Past Service Cost (Adjustments: change in pension terms)} \\ 
+ &(+/-) \; \text{Actuarial Gains/Losses (results from changes in assumptions)} \\ 
  &- \text{Benefits Paid} \\ 
  \end{split} 
 $$
-
+#mnemonic S^[current Service cost]IP A Beer
 ## Treatment on asset side of the BS
 #formula 
 - Employer needs to contribute to make sure [[PlanAssets]] keep up with changes in PBO
@@ -32,6 +32,7 @@ $$
  &- \text{Benefits Paid} \\ 
  \end{split} 
 $$
+#mnemonic Catch A Beer
 
 ## Financial Reporting 
 - if [[FundedStatus]] is negative: 

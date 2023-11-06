@@ -1,6 +1,6 @@
 #ethics 
 
-#pneumonic "DC Loyers For Suit Presents Confidently"
+#mnemonic  "DC Loyers For Suit Presents Confidently"
  
 ## Loyalty, Prudence and Care 
 

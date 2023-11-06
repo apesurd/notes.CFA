@@ -1,6 +1,7 @@
 #Economics 
 
 After 2008 financial crisis, Financial Stability Board and G20 introduced Bail-in to deal with the failure of financial institutions
+- Divest shares of the shareholders and creditors have their claims cancelled or reduced.
 - Allow failed institution to continue to operate
 - restructure to address the cause of the failure. 
 - Ensures that the cost of failure is borne by the shareholders and creditors, not the taxpayers.

@@ -1,6 +1,6 @@
 #ethics 
 
-#pneumonic "PR" -> participant and reference 
+#mnemonic  "PR" -> participant and reference 
 
 ## Conduct as a participant in CFA Institute programs 
 > Members and Candidates must not engage in any conduct that compromises the reputation or integrity of CFA Institute or the CFA designation or the integrity, validity, or security of CFA Institute programs.

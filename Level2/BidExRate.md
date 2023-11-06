@@ -1,7 +1,7 @@
 #Economics 
 
 # Bid Exchange rate
-Rate at which [[Dealer]] *buys* base currency
+Rate at which [[Dealer]] *buys* 1 unit of the base currency
 
 
 #mnemonic 

@@ -6,7 +6,7 @@ A small number of observations in a sample could potentially influence and bias 
 Two kinds of observations may potentially influence regression results: 
 1. [[HighLeveragePoint]]: extreme value of independent variable. 
 2. [[OutlierPoint]]: extreme value of the dependent variable 
-	   ( #pneumonic **O**utlier -> **O**utput)
+	   ( #mnemonic  **O**utlier -> **O**utput)
 
 These kind of observations are not necessarily a problem.
 

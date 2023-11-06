@@ -10,7 +10,7 @@
    In order for the restructuring be recognised as a credit event. Restructuring should be either 
    - **Involuntary**: Forced on the borrower by the creditors. 
    - **Coercive**: Forced on the creditors by the borrower. 
-#pneumonic (CC -> Coercive forced on creditors. )
+#mnemonic  (CC -> Coercive forced on creditors. )
 
 
 ## How 
@@ -18,6 +18,4 @@
 - at least 12 votes are required to declare credit event. 
 
 If the event is declared as credit event, then the two parties involved in the contract, has the right *but not obligation* to settle. 
-
-
 

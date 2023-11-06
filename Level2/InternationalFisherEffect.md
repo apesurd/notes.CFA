@@ -13,3 +13,5 @@ which reduce the relationship to:
 $$
 E(Inf_A) - E(Inf_B)  = nominal_A - nominal_B
 $$
+
+Based on [[RealInterestRateParity]] and ex-ante [[PurchasingPowerParity]] 
