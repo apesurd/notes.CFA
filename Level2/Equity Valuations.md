@@ -1,0 +1,84 @@
+# Equity Valuation: Application and Processes 
+- define valuation and intrinsic value and explain sources of perceived mispricing
+- explain the going concern assumption and contrast a going concern value to a liquidation value
+- describe definitions of value and justify which definition of value is most relevant to public company valuation
+- describe applications of equity valuation
+- describe questions that should be addressed in conducting an industry and competitive analysis
+- contrast absolute and relative valuation models and describe examples of each type of model
+- describe sum-of-the-parts valuation and conglomerate discounts
+- explain broad criteria for choosing an appropriate approach for valuing a given company
+# Discounted Dividend Valuation 
+- compare dividends, free cash flow, and residual income as inputs to discounted cash flow models and identify investment situations for which each measure is suitable
+- calculate and interpret the value of a common stock using the dividend discount model (DDM) for single and multiple holding periods
+- calculate the value of a common stock using the Gordon growth model and explain the model’s underlying assumptions
+- calculate the value of non-callable fixed-rate perpetual preferred stock
+- describe strengths and limitations of the Gordon growth model and justify its selection to value a company’s common shares
+- calculate and interpret the implied growth rate of dividends using the Gordon growth model and current stock price
+- calculate and interpret the present value of growth opportunities (PVGO) and the component of the leading price-to-earnings ratio (P/E) related to PVGO
+- calculate and interpret the justified leading and trailing P/Es using the Gordon growth model
+- estimate a required return based on any DDM, including the Gordon growth model and the H-model
+- evaluate whether a stock is overvalued, fairly valued, or undervalued by the market based on a DDM estimate of value
+- explain the growth phase, transition phase, and maturity phase of a business
+- explain the assumptions and justify the selection of the two-stage DDM, the H-model, the three-stage DDM, or spreadsheet modeling to value a company’s common shares
+- describe terminal value and explain alternative approaches to determining the terminal value in a DDM
+- calculate and interpret the value of common shares using the two-stage DDM, the H-model, and the three-stage DDM
+- explain the use of spreadsheet modeling to forecast dividends and to value common shares
+- calculate and interpret the sustainable growth rate of a company and demonstrate the use of DuPont analysis to estimate a company’s sustainable growth rates 
+# Free Cash Flow Valuation 
+- compare the free cash flow to the firm (FCFF) and free cash flow to equity (FCFE) approaches to valuation
+- explain the ownership perspective implicit in the FCFE approach
+- explain the appropriate adjustments to net income, earnings before interest and taxes (EBIT), earnings before interest, taxes, depreciation, and amortization (EBITDA), and cash flow from operations (CFO) to calculate FCFF and FCFE
+- calculate FCFF and FCFE
+- describe approaches for forecasting FCFF and FCFE
+- explain how dividends, share repurchases, share issues, and changes in leverage may affect future FCFF and FCFE
+- compare the FCFE model and dividend discount models
+- evaluate the use of net income and EBITDA as proxies for cash flow in valuation
+- explain the use of sensitivity analysis in FCFF and FCFE valuations
+- explain the single-stage (stable-growth), two-stage, and three-stage FCFF and FCFE models and justify the selection of the appropriate model given a company’s characteristics
+- estimate a company’s value using the appropriate free cash flow model(s)
+- describe approaches for calculating the terminal value in a multistage valuation model; and
+- evaluate whether a stock is overvalued, fairly valued, or undervalued based on a free cash flow valuation model
+# Market-based Valuation: Price and EV multiples 
+- contrast the method of comparables and the method based on forecasted fundamentals as approaches to using price multiples in valuation and explain economic rationales for each approach
+- calculate and interpret a justified price multiple
+- describe rationales for and possible drawbacks to using alternative price multiples and dividend yield in valuation
+- calculate and interpret alternative price multiples and dividend yield
+- calculate and interpret underlying earnings, explain methods of normalizing earnings per share (EPS), and calculate normalized EPS
+- explain and justify the use of earnings yield (E/P)
+- describe fundamental factors that influence alternative price multiples and dividend yield
+- calculate and interpret a predicted P/E, given a cross-sectional regression on fundamentals, and explain limitations to the cross-sectional regression methodology
+- calculate and interpret the justified price-to-earnings ratio (P/E), price-to-book ratio (P/B), and price-to-sales ratio (P/S) for a stock, based on forecasted fundamentals
+- calculate and interpret the P/E-to-growth (PEG) ratio and explain its use in relative valuation
+- calculate and explain the use of price multiples in determining terminal value in a multistage discounted cash flow (DCF) model
+- evaluate whether a stock is overvalued, fairly valued, or undervalued based on comparisons of multiples
+- evaluate a stock by the method of comparables and explain the importance of fundamentals in using the method of comparables
+- explain alternative definitions of cash flow used in price and enterprise value (EV) multiples and describe limitations of each definition
+- calculate and interpret EV multiples and evaluate the use of EV/EBITDA
+- explain sources of differences in cross-border valuation comparisons
+- describe momentum indicators and their use in valuation
+- explain the use of the arithmetic mean, the harmonic mean, the weighted harmonic mean, and the median to describe the central tendency of a group of multiples
+
+
+# Residual Income Model 
+- calculate and interpret residual income, economic value added, and market value added
+- describe the uses of residual income models
+- calculate the intrinsic value of a common stock using the residual income model and compare value recognition in residual income and other present value models
+- explain fundamental determinants of residual income
+- explain the relation between residual income valuation and the justified price-to-book ratio based on forecasted fundamentals
+- calculate and interpret the intrinsic value of a common stock using single-stage (constant-growth) and multistage residual income models
+- calculate the implied growth rate in residual income, given the market price-to-book ratio and an estimate of the required rate of return on equity
+- explain continuing residual income and justify an estimate of continuing residual income at the forecast horizon, given company and industry prospects
+- compare residual income models to dividend discount and free cash flow models
+- explain strengths and weaknesses of residual income models and justify the selection of a residual income model to value a company’s common stock
+- describe accounting issues in applying residual income models 
+# Private Company Valuation 
+- compare public and private company valuation
+- describe uses of private business valuation and explain applications of greatest concern to financial analysts
+- explain cash flow estimation issues related to private companies and adjustments required to estimate normalized earnings
+- explain the income, market, and asset-based approaches to private company valuation and factors relevant to the selection of each approach
+- explain factors that require adjustment when estimating the discount rate for private companies
+- compare models used to estimate the required rate of return to private company equity (for example, the CAPM, the expanded CAPM, and the build-up approach)
+- calculate the value of a private company using free cash flow, capitalized cash flow, and/or excess earnings methods
+- calculate the value of a private company based on market approach methods and describe advantages and disadvantages of each method
+- describe the asset-based approach to private company valuation
+- explain and evaluate the effects on private company valuations of discounts and premiums based on control and marketability

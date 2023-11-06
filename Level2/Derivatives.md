@@ -1,0 +1,23 @@
+# Pricing and Valuation of Forward Commitments 
+- describe how equity forwards and futures are priced, and calculate and interpret their no-arbitrage value
+- describe the carry arbitrage model without underlying cashflows and with underlying cashflows
+- describe how interest rate forwards and futures are priced, and calculate and interpret their no-arbitrage value
+- describe how fixed-income forwards and futures are priced, and calculate and interpret their no-arbitrage value
+- describe how interest rate swaps are priced, and calculate and interpret their no-arbitrage value
+- describe how currency swaps are priced, and calculate and interpret their no-arbitrage value
+- describe how equity swaps are priced, and calculate and interpret their no-arbitrage value
+# Valuation of Contingent Claims 
+- describe and interpret the binomial option valuation model and its component terms
+- describe how the value of a European option can be analyzed as the present value of the option’s expected payoff at expiration
+- identify an arbitrage opportunity involving options and describe the related arbitrage
+- calculate the no-arbitrage values of European and American options using a two-period binomial model
+- calculate and interpret the value of an interest rate option using a two-period binomial model
+- identify assumptions of the Black–Scholes–Merton option valuation model
+- interpret the components of the Black–Scholes–Merton model as applied to call options in terms of a leveraged position in the underlying
+- describe how the Black–Scholes–Merton model is used to value European options on equities and currencies
+- describe how the Black model is used to value European options on futures
+- describe how the Black model is used to value European interest rate options and European swaptions
+- interpret each of the option Greeks
+- describe how a delta hedge is executed
+- describe the role of gamma risk in options trading
+- define implied volatility and explain how it is used in options trading
