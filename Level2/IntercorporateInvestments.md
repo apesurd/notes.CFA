@@ -14,3 +14,6 @@
 2. [[InvestmentInAssociates]] (has significant influence but no control)
 3. [[BusinessCombination]] (has control)
 3. a [[JointVenture]]
+
+--- 
+Under IFRS, SPEs can't be classified as qualifying.

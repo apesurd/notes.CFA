@@ -7,9 +7,12 @@ When a company has a subsidiary in another country, the consolidated financial r
 1. [[CurrentRate_MA]]
 2. [[AverageRate_MA]]
 3. [[HistoricalRate_MA]]
+
 1. ![[PresentationCurrency]]
 2. ![[FunctionalCurrency]]
 3. ![[LocalCurrency]]
+
+![[Pasted image 20231108192642.png]]
 
 
 ## Definitions 

@@ -30,7 +30,7 @@ Minority interest = Fair value of identifiable net assets * MI
 - Fair value of identifiable net assets depends on the net sum of subsidiary assets less liabilities 
 
 
-`Full GW = Partial GW * %acquired`
+`Partial GW = Full GW * %acquired`
 US [[GAAP]] requires full goodwill. 
 [[IFRS]] allows both. 
 

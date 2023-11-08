@@ -5,6 +5,7 @@ True economic cost of the pension plan for the period.
 TPPC = Current contribution - Change in [[FundedStatus]] 
 
 Another form to express this is: 
+#mnemonic SIP A Ass (Similar to SIP A Beer) 
 
 $$ 
  \begin{split} 
@@ -17,7 +18,11 @@ $$
  \end{split} 
 $$
 
-> [!Tip] "Current contribution" and "benefits paid" are cancelled out. 
+> [!Tip] 
+> - Visualize the boxes for PA and PBO, and subtract elements from them.
+> - "Current contribution" and "benefits paid" are cancelled out. 
+
+
 
 >[!Note] Not all components are to be expensed in income statement. Some reported under OCI.
 >[[IFRS]]  and US [[GAAP]] have different standards to determine which component should be part of the income statement and which should be a part of OCI. 
@@ -31,8 +36,8 @@ $$
 
 In both cases, TCCP is always equal to Periodic Cost reported in IS + Periodic cost reported in IOC
 - For financial reporting, in interest costs, we take into account the expected returns. 
-- IFRS assumes same discount rate for both assets and obligations.
-- Net interest cost = (PBO - PA)* $r_o$
+- IFRS assumes same discount rate for both assets and obligations. (GAAP does not)
+	- Net interest cost = (PBO - PA)* $r_o$
 - Actuarial Gains and losses are amortised using [[CorridorApproachOfAmortisation]]
 
 >[!Tip] Keep into consideration that we are thinking from the perspective of cost. So increase in PBO would lead to increase in cost, increase in assets would lead to decrease in cost. 

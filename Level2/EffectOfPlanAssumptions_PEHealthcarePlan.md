@@ -1,6 +1,6 @@
 #FSA #employeeCompensation 
 
-Similar to [[EffectsOfPlanAssumptions_DBP]], but SGR is replaced by Healthcare inflation rate. 
+Similar to [[EffectsOfPlanAssumptions_DBP]], but Salary Growth Rate is replaced by Healthcare inflation rate (HCIR)
 
 Health care inflation rate curve can be characterised by three attributes: 
 1. Near term HCIR 

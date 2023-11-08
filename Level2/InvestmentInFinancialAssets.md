@@ -6,9 +6,9 @@ When investor does not have significant influence on investee.
 
 Accounting methods: 
 This nomenclature is meant for IFRS, the equivalent name under GAAP is in enclosed brackets. 
-1. Amortised cost  (Held to maturity)
-2. Fair value; through p/l (Held for trading)
-3. Fair value; through OCI (Available for sale)
+1. Amortised cost  (Held to maturity) (Not ever applicable for equity since they don't mature)
+2. Fair value; through p/l ([[HeldForTrading]])
+3. Fair value; through OCI ([[AvailableForSale]])
 
 Accounting are explained under IFRS9 standards. 
 
@@ -18,6 +18,12 @@ See [[IFRS9ProvisioningModel]]
 
 Note: Regardless of the method used, interest income is calculated using the amortised value of the debt instrument. Same goes for the amortised premium/discount. 
 Amortised premium = coupon - Interest income 
+
+>[!Remember]
+> Coupons are not considered as income, we use the interest as income (yield * prev price)
+> Unrealised gains and losses are not considered in amortised cost method. 
+> ! How do you calculate amortised discount. [[CalculatingAmortisedDiscountOrPremium]] 
+
 
 > Unrealized gains/losses = Change in fair value + amortised prem. - amortised discnt
 

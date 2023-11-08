@@ -11,6 +11,8 @@ The influence can be in the form of:
 - Technology transfers 
 
 Accounting method used is [[EquityMethodForAccounting]]
+- Historical cost of investment + Financial performance of associate.
+
 
 > [!Note]  [[GAAP]] (all entities) and [[IFRS]] (VCs, MFs, Unit trusts, etc) both give investment an option to choose FVPL method as well. Choice must be made at initial recognition and is irrevocable. 
 
@@ -34,7 +36,8 @@ Reversal of the losses is prohibited even if the fair value later increases.
 ### Transactions with Associate 
 1. Downstream transactions: Investor to investee. 
    - Profit from the sale is reduced by the proportion of the goods not sold by the investee. 
-2. Downstream transactions: investee to investor.
+	   - NOTE: Gross profit (investors) * ownership interest * Proportion of unconfirmed profit
+1. Upstream transactions: investee to investor.
    - Investor should eliminate proportional share of profit that is unconfirmed from equity income, as unrealised profit. ( #Q)
    - Investee can recognise the profit in his IS though. 
 Profits from transactions with associates can't be realised until confirmed through use or sale to third parties. 
@@ -45,3 +48,16 @@ Profits from transactions with associates can't be realised until confirmed thro
 	   Since net assets contribute to investors investment account, this can skew debt ratios.  
 3. Consider the quality of equity income. If associate is showing higher earnings but no dividends, then investor might be able to report higher earnings cash flow may not increase correspondingly. 
 
+
+--- 
+## Highlights 
+1. One-line consolidation in both BS and IS 
+2. Proportional net income less proportional dividend is considered as income and increase the value of the investment account in BS. 
+3. Dividend is not considered as income, but as return on capital under equity method. 
+4. If loss exceeds investment account (unrealised loss and equity method is halted.)
+	1. How does it recover. 
+5. Goodwill and Amortisation (if purchase price exceeds the book value)
+	1. amortisation and goodwill impairment would also be accounted in IS. 
+6. How it is different from FVPL
+	1. dividend is recognised in income statement. 
+	2. profit and loss of the investee does not affect investors' BS. Value of the security does.

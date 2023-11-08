@@ -25,5 +25,4 @@ Types of share based compensations:
 3. [[PhantomStocks]]
 4. [[StockAppreciationRights]]
 
- - Employees bear the risk of stocks in case of [[StockGrants]] and [[StockOptions]] 
- 
+ - Employees bear the risk of stocks in case of [[StockGrants]] and [[StockOptions]]  

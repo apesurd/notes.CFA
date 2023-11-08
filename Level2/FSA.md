@@ -1,18 +1,50 @@
-# Intercorporate Investments 
+# Inter-corporate Investments 
+[[IntercorporateInvestments]] 
+[[SpecialPurposeEntity]] 
+[[IFRS9ProvisioningModel]] 
+
+## LOs
 - describe the classification, measurement, and disclosure under International Financial Reporting Standards (IFRS) for 1) investments in financial assets, 2) investments in associates, 3) joint ventures, 4) business combinations, and 5) special purpose and variable interest entities
 - compare and contrast IFRS and US GAAP in their classification, measurement, and disclosure of investments in financial assets, investments in associates, joint ventures, business combinations, and special purpose and variable interest entities
-- analyze how different methods used to account for intercorporate investments affect financial statements and ratios
-# Employee Compensation 
+	- Difference in how to measure impairment loss 
+	- IFRS allow both full and partial goodwill. GAAP only allows full goodwill.
+- analyse how different methods used to account for intercorporate investments affect financial statements and ratios
+	- NI remains the same, in all equity, partial acquisition and full acquisition 
+# !Employee Compensation 
+- [[EmployeeCompensation]] 
+- [[AnnualUnitCredit]] 
+- [[FundedStatus]] and Reporting of [[TotalPeriodicPensionCost]] 
+	- GAAP is more complex in terms of reporting. 
+	 - Revise using the video.
+		  - There is confusion about how the expected and actual interest rate affect the reporting.
+ - How does it affect Operating and financing income
+	 - Excess of contribution over TPPC, goes to reduce liability hence considered financial cash flow.
+- Remember how the obligation is calculated.
+- How cash flow is affected by the pension plans.
+ - [[ShareBasedCompensation]] 
+	 - How risk-free-rate, volatility, term, etc influence stock options values
+## LOs
 - describe the types of post-employment benefit plans and implications for financial reports
 - explain and calculate measures of a defined benefit pension obligation (i.e., present value of the defined benefit obligation and projected benefit obligation) and net pension liability (or asset)
 - describe the components of a company’s defined benefit pension costs
 - explain and calculate the effect of a defined benefit plan’s assumptions on the defined benefit obligation and periodic pension cost
 - explain and calculate how adjusting for items of pension and other post-employment benefits that are reported in the notes to the financial statements affects financial statements and ratios
 - interpret pension plan note disclosures including cash flow related information
+
 - explain issues associated with accounting for share-based compensation
 - explain how accounting for stock grants and stock options affects financial statements, and the importance of companies’ assumptions in valuing these grants and options
 
+
 # Multinational Operations 
+- When reporting date is in between transaction and payment. Unrealised gain/loss should be recorded in the income statement along with the payables and receivables. 
+	- FX gains/losses can be recorded as operating or non-operating income. No recommendations from standards
+- [[MultinationalAccounting]] 
+- [[ExposureToExchangeRateRisk]] 
+ -[[TranslationInHyperinflationaryEnvironments_MA]] : Not problematic for [[TemporalMethod]] 
+- [[CleanSurplusAccounting]] 
+- [[DisclosuresAndTaxes_MA]] 
+
+## LOs
 - compare and contrast presentation in (reporting) currency, functional currency, and local currency
 - describe foreign currency transaction exposure, including accounting for and disclosures about foreign currency transaction gains and losses
 - analyze how changes in exchange rates affect the translated sales of the subsidiary and parent company

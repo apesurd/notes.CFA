@@ -1,0 +1,3 @@
+- Kept for short-term 
+- Valued at fair-value 
+- Recorded in Income statement. 

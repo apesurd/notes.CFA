@@ -19,7 +19,7 @@ $$
  &- \text{Benefits Paid} \\ 
  \end{split} 
 $$
-#mnemonic S^[current Service cost]IP A Beer
+#mnemonic S^[current Service cost]IP A Beer (represents change in the value of PBO)
 ## Treatment on asset side of the BS
 #formula 
 - Employer needs to contribute to make sure [[PlanAssets]] keep up with changes in PBO
@@ -32,7 +32,7 @@ $$
  &- \text{Benefits Paid} \\ 
  \end{split} 
 $$
-#mnemonic Catch A Beer
+#mnemonic Catch A Beer (Represents change in the value of Plan Assets)
 
 ## Financial Reporting 
 - if [[FundedStatus]] is negative: 

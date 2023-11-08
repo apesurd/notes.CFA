@@ -1,5 +1,10 @@
 #FSA #multinationalOperations 
 
+
+![[Pasted image 20231108194704.png]]
+
+![[Pasted image 20231108194728.png]]
+
 ## Highlights
 1. Balance Sheet:
 	1. Monetary assets/liabilities : [[CurrentRate_MA]] 

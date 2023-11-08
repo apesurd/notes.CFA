@@ -23,7 +23,7 @@ Only acquirer, who would prepare the consolidated statement, needs to be identif
 
 - In past, purchase method and pooling-of-interest method was allowed. 
 - [[AcquisitionMethodForAccounting]] now replaces the purchase method. 
-- Pooling-of-interest method is no longer allowed. 
+- [[PoolingOfInterest]] method is no longer allowed. 
 
 See [[JointVenture]] 
 
