@@ -34,7 +34,7 @@ Pension funds and insurance companies use long dated govt bonds to match liabili
 Greater domestic demand raises price of the LT bonds and reduces yield. 
 
 During uncertain economic times, investors tend to get rid of highly volatile assets and buy less risky ones. This phenomenon  is also known as "flight to quality"
-If investors flock to buy LT bonds, this would lead to steepening of the yield curve. 
+If investors flock to buy LT bonds, this would lead to flattening of the yield curve. 
 Also known as [[BullishFlattening]]
 
 ## Investor Actions 

@@ -1,4 +1,14 @@
 # The Term Structure and Interest Rate Dynamics 
+[[MeasuresOfSpread]] 
+[[YieldCurve]] 
+[[BondRiskPremium]]
+[[TermStructureTheories]]
+[[YieldCurveRisk]] 
+[[KeyRateDuration]] 
+[[RollingDownTheYieldCurve]] 
+[[SwapRateCurve]] 
+
+## LOs
 - describe relationships among spot rates, forward rates, yield to maturity, expected and realized returns on bonds, and the shape of the yield curve
 - describe how zero-coupon rates (spot rates) may be obtained from the par curve by bootstrapping
 - describe the assumptions concerning the evolution of spot rates in relation to forward rates implicit in active bond portfolio management

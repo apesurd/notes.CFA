@@ -1,8 +1,7 @@
 #fixedIncome 
 
-Swap rate curve plots swap rates for various tenors of the swaps. 
-
-Swap rates are indicative of short term landing rates in the market. 
+- Swap rate curve plots swap rates for various tenors of the swaps. 
+- Swap rates are indicative of short term landing rates in the market. 
 
 Can be derived using the spot curve. 
 Generally use inter-banking rates such as LIBOR, etc. 

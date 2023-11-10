@@ -43,6 +43,7 @@
  -[[TranslationInHyperinflationaryEnvironments_MA]] : Not problematic for [[TemporalMethod]] 
 - [[CleanSurplusAccounting]] 
 - [[DisclosuresAndTaxes_MA]] 
+- Effect of currency appreciation and depreciation on Shareholder's equity. 
 
 ## LOs
 - compare and contrast presentation in (reporting) currency, functional currency, and local currency
