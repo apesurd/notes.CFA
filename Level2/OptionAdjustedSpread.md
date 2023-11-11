@@ -12,6 +12,9 @@ The wider the Market price of the risky bond from it's default-free variant (bas
 
 ## Effect of IR volatility  on OAS 
 
+> [!Tip]
+> Visualise the price vs volatility curve for bonds with callable and putables. 
+
 Assuming the market price constant, focus on the gap between valuation curve and x axis. 
 ### Putable bonds 
 As gap increases between putable bond valuation curve and x-axis, the OAS would increase too. 

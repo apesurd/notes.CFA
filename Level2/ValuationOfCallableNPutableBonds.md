@@ -16,3 +16,6 @@ We do this using the binomial tree method
 - PUT -> Replace the values less than 100 with 100, on ex-dates. 
 
 To calculate the value of the option, subtract the value of the option-free bond from the value obtained above. 
+
+- There are no american style put-options.
+- Bermudan options are to be exercised for 2-3 fixed dates. 

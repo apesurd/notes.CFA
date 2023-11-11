@@ -8,4 +8,3 @@ IR_{up} = IR_{dn} \; * \; e^{2 \sigma}
 $$
 
 If the interest rate tree is correctly calibrated, the value of the bond (without any embedded options) would be same as obtained from [[ValutionUsingSpotRates_FI]] 
-

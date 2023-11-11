@@ -19,8 +19,8 @@ Two major classes of term structure model:
 - Changes are based on economic variables. 
 - No calibration is done 
 - Common models 
-  1. [[CoxIngersollRoss]]  CIR model 
   2. [[Vesicek]] Model 
+  1. [[CoxIngersollRoss]]  CIR model 
 
 ## Arbitrage-free models 
 - Assumes market bonds are correctly priced. 
