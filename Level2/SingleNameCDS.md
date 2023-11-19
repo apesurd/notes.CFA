@@ -5,4 +5,4 @@
 
 Credit default occurs only if reference (or other equal or higher seniority) bond defaults. 
 
-[[RecoveryRate]] is determined based on the market value of the cheapest-to-deliver bond that has the same seniority as the reference obligation. 
+[[RecoveryRate]] is determined based on the market value of the cheapest-to-deliver bond that has the same seniority as the reference obligation. Maturity of the bond does not matter in order to determine cheapest-to-deliver bond. 

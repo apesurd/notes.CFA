@@ -1,4 +1,18 @@
 # Exchange-Traded Funds: Mechanics and Applications 
+- Authorised personall 
+- Management fee is the highest contributer to [[TrackingError]] 
+- total cost = 2 * brokerage fee + bid-ask spread + t * management fees. 
+	- short term trader would prefer lower spead and commission 
+	- long term horizon would prefer lower management fees. 
+- Large orders might face price impact costs. 
+-   Reasons for bid-ask spread [[ETFTradingAndOwnershipCost]] 
+- Soft-closure vs hard closure
+- [[ETFTradingAndSettlement]]  6 days to AP, 2 days normally.
+- [[ETN]] 
+- [[ETFRisks]] 
+- [[ETFinPortfolioManagement]] 
+
+## LOs
 - explain the creation/redemption process of ETFs and the function of authorized participants
 - describe how ETFs are traded in secondary markets
 - describe sources of tracking error for ETFs
@@ -8,6 +22,14 @@
 - describe types of ETF risk
 - identify and describe portfolio uses of ETFs
 # Using Multi-factor Models 
+- [[MultifactorModels]] 
+	- stat: FActor analysis covariances 
+		- principle component variances. 
+- [[CarhartModel]] 
+- [[AttributionOfActiveRisk]] 
+- [[AttributionOfActiveReturn]] 
+
+## LOs
 - describe arbitrage pricing theory (APT), including its underlying assumptions and its relation to multifactor models
 - define arbitrage opportunity and determine whether an arbitrage opportunity exists
 - calculate the expected return on an asset given an asset’s factor sensitivities and the factor risk premiums
@@ -16,6 +38,14 @@
 - describe the potential benefits for investors in considering multiple risk dimensions when modeling asset returns
 - explain sources of active risk and interpret tracking risk and the information ratio
 # Measuring and Managing Market Risk 
+- [[ValueAtRisk]] 
+- authorities accept VAR but dont' have any prescriptions. 
+- [[ConditionalVar]] 
+- [[IncrementalVaR]] 
+- [[MarginalVar]] 
+- [[RelativeVar]] 
+- 
+
 - explain the use of value at risk (VaR) in measuring portfolio risk
 - compare the parametric (variance–covariance), historical simulation, and Monte Carlo simulation methods for estimating VaR
 - estimate and interpret VaR under the parametric, historical simulation, and Monte Carlo simulation methods
@@ -40,6 +70,17 @@
 - demonstrate the use of sensitivity analysis
 
 # Economics and Investment Markets 
+- [[InterTemporalRateOfSubstitution]] 
+- Real risk free rate increases with expectations in GDP growth 
+- [[NominalRiskFreeRate]] 
+	- Rfr => GDP expectations + inflation expectations + change in inflation
+- [[BreakEvenInflation]] 
+- Credit spread decreases when business cycle is doing good, but real risk free rate increases. => Risky bonds outperform risk-free bonds during good business cycle. 
+- Difference between [[EquityRiskPremium]] and Equity Premium (ERP - credit risk premium)
+- [[ConsumptionHedgingProperty]] is negative for both equity and real estate 
+- [[LiquidityPremium]] is calculated in the context of real estate. rent -> bond; sell value -> equity like plus relatively more illiquid. 
+- [[ShillersCAPE]] 
+## LOs
 - explain the notion that to affect market values, economic factors must affect one or more of the following: 1) default-free interest rates across maturities, 2) the timing and/or magnitude of expected cash flows, and 3) risk premiums
 - explain the role of expectations and changes in expectations in market valuation
 - explain the relationship between the long-term growth rate of the economy, the volatility of the growth rate, and the average level of real short-term interest rates
@@ -54,6 +95,22 @@
 
 
 # Analysis of Active Portfolio Management 
+- [[FundamentalLawOfActiveManagement]] 
+- Asset return : Assume the relative weights of the securities in each asset class remains the same. Expected return this way would remain the same. calculate the change in asset class weights times expectation. 
+- Security selection return: weight would remain the same (not benchmark), expected return would change based on the new relative weights in each asset class. calculate the change in expected return times the portfolio weight of the asset class. 
+$$ 
+ \begin{split} 
+ \sigma_A^* = \frac{IR^*}{SR_B} * \sigma_B  \\
+ SR^{*2}_P = SR^2_B + IR^{*2} \\
+ E(R_A^*) = \sigma^*_A * IR^*  
+ \end{split} 
+$$
+- [[InformationRatio]] 
+- [[InformationCoefficient]] 
+- [[GrinoldRule]] 
+- [[TransferCoefficient]] 
+
+## LOs
 - describe how value added by active management is measured
 - calculate and interpret the information ratio (ex post and ex ante) and contrast it to the Sharpe ratio
 - describe and interpret the fundamental law of active portfolio management, including its component terms—transfer coefficient, information coefficient, breadth, and active risk (aggressiveness)
@@ -61,6 +118,25 @@
 - compare active management strategies, including market timing and security selection, and evaluate strategy changes in terms of the fundamental law of active management
 - describe the practical strengths and limitations of the fundamental law of active management
 # Trading Costs and Electronic Markets 
+- bid-ask spread ask > bid; ask is the price at which the dealer would want to sell.
+- [[MarketImpact]], [[DelayOrSlippage]] 
+- [[InsideAsk]]  and [[InsideBid]] , [[InsideSpread]] , [[MidquotePrice]] 
+- [[StandingLimitOrder]] 
+-  Measuring implicit costs 
+	- [[EffectiveSpread]] 
+		- price-improvement: when effective spread is less then inside spread.
+	- [[VolumeWeightedAveragePrice]] 
+	- [[ImplementationShortfall]] 
+- Corporate and municipal bonds markets are still not using electronic systems for trading. 
+- [[LiquidityAggregator]] 
+- Smart-order routing algorithms. 
+- Different type of [[ProprietaryTraders]] 
+- [[HiddenOrders]] 
+- [[FlickeringQuotes]]  
+- [[ElectronicTradingStrategies]] 
+- [[AdvancedTradingSystems]] 
+
+## LOs
 - explain the components of execution costs, including explicit and implicit costs
 - calculate and interpret effective spreads and VWAP transaction cost estimates
 - describe the implementation shortfall approach to transaction cost measurement

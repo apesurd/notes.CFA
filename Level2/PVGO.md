@@ -1,5 +1,6 @@
 #EquityInvestements 
 
+- REMEMBER: This formula uses the leading earning data.
 Abbreviation of Present Value of Growth opportunities. 
 $V_0 - E_1 / r$
 

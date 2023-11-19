@@ -1,5 +1,16 @@
 
 # Overview of Types of Real Estate Investments
+- [[REIndexes]] 
+	- Use direct capitalisation method vs other dicounted cash flow
+	- best use: the use which results in the maximum value for the land. 
+	- Value = NOI_stab - PV(NOI_stb - NOI_init)
+- [[AllRiskYield]] == cap rate when net lease (net = tenant pays operating charges)
+- [[RealEstateValuation]] 
+- [[DebtFinancing_RealEstate]] 
+- [[ValuationOfREITs]] 
+- [[RealEstateInvestments]] 
+- [[EquityDividendRate]] : 
+## LOs
 - compare the characteristics, classifications, principal risks, and basic forms of public and private real estate investments
 - explain portfolio roles and economic value determinants of real estate investments
 - discuss commercial property types, including their distinctive investment characteristics
@@ -21,6 +32,45 @@
 
 # Private Equity Investments 
 - explain sources of value creation in private equity
+	1. Re-engineering
+	2. lower cost of debt financing 
+		1. Debt is based on EBITDA multiple of portfolio company
+		2. Syndicated loan market .
+	3. alignment of interest with the management. 
+		1. terms of investment 
+			1. board representation 
+			2. non-compete clause 
+			3. priority in claims 
+			4. Required approvals. 
+			5. [[EarnOuts]]
+- [[LBOMethod]]
+- [[VCMethod]]
+- exit routes 
+- PE firms 
+	- committed capital 
+	- paid-in capital / invested capital: cumulative capital drawn. 
+	- economic terms: 
+		- term of the fund 
+		- vintage
+		- target fund size 
+		- ratchet 
+		- management fees 
+		- transaction fees 
+		- performance fees / carried interest 
+		- Hurdle rate 
+	- Key man clause 
+	- performance disclosures and confidentility 
+	- tag-along, drag along rights. 
+	- no-fault divorce 
+	- removal for cause 
+	- co-investment 
+	- distribution waterfall 
+		- americal (deal by deal)
+		- european (total return)
+	- DPI , RSPI, TSPI 
+	- [[ClawbackPolicy]] 
+
+
 - explain how private equity firms align their interests with those of the managers of portfolio companies
 - compare and contrast characteristics of buyout and venture capital investments
 - interpret LBO model and VC method output

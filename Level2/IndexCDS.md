@@ -1,6 +1,7 @@
 #fixedIncome 
 
 Coveres multiple issuers 
+- Pricing depends on the correlation of default. 
 - Analogous to ETF/Index funds for CDS. 
 - All are equally weighted and notional amount is attributed equally to all the issuers. 
 

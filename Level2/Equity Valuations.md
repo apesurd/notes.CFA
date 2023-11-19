@@ -1,4 +1,8 @@
 # Equity Valuation: Application and Processes 
+- When should we not consider free-cash flow approach of valuation. 
+- 
+
+## LOs
 - define valuation and intrinsic value and explain sources of perceived mispricing
 - explain the going concern assumption and contrast a going concern value to a liquidation value
 - describe definitions of value and justify which definition of value is most relevant to public company valuation
@@ -25,6 +29,21 @@
 - explain the use of spreadsheet modeling to forecast dividends and to value common shares
 - calculate and interpret the sustainable growth rate of a company and demonstrate the use of DuPont analysis to estimate a company’s sustainable growth rates 
 # Free Cash Flow Valuation 
+- How to calculate WACC in presence of [[PreferredStocks]] 
+- [[FreeCashFlowModel]] 
+- Formulas to remember. 
+- Tips for the estimation of FCFF and FCFE from statements. 
+	- If we have cash-flow statement, that would be best. 
+		- In this case think from the lens of the cash inflow and outflow. 
+		- For e.g. account payables increase would increase free cash, on the contrary increase in account recievables would decrease the free cash. 
+	- Capital expenditure represents fixed capital investment and easier to identify based on the change in the fixed assets. 
+	- working capital estimation is difficult sometimes. Basically that would be the difference given in cash-flow statement explicitly. 
+		- otherwise, based on balance sheet, we need to find the difference between net current assets less net current liabilities. 
+	- Non-cash charges are usually depreciation. 
+	- Tax is easier to figure out. 
+	- Net borrowings, can be based on the increase in the debt and increase in the notes payables and receivables.
+ - Always remember to reduce the cost of debt from FCFF to calculate FCFE.
+## LOs
 - compare the free cash flow to the firm (FCFF) and free cash flow to equity (FCFE) approaches to valuation
 - explain the ownership perspective implicit in the FCFE approach
 - explain the appropriate adjustments to net income, earnings before interest and taxes (EBIT), earnings before interest, taxes, depreciation, and amortization (EBITDA), and cash flow from operations (CFO) to calculate FCFF and FCFE
@@ -39,6 +58,20 @@
 - describe approaches for calculating the terminal value in a multistage valuation model; and
 - evaluate whether a stock is overvalued, fairly valued, or undervalued based on a free cash flow valuation model
 # Market-based Valuation: Price and EV multiples 
+- [[normalizedEPS]]
+- If company has acquired someone recently then it's better to use the forecasted EPS to price P/E
+- Should we compare the shares using PE ratio of PEG ratio. [[Price2EarningsRatio]] 
+	- Generally check if the comparison metric is mentioned in the question. 
+- There are some formulas based on gordon growth model for the valuation multiples. 
+- When calculating BV per share we should remove preferred share allocation from equity. 
+- [[EnterpriceValue]] takes into account the market value not book value. 
+- What is diluted EPS?
+-[[YardaniModel]] and [[FedModel]] 
+- Standardised Unexpected Earnings vs ScaledEarningsSurprise 
+- Make sure we are using correct MV or BV and the time to determine, say ROE * BV would give earning for the next year. 
+	- Also turnovers should be calculated using the averages not the recent values. 
+- Don't confuse between EV and EBITDA. 
+## LOs
 - contrast the method of comparables and the method based on forecasted fundamentals as approaches to using price multiples in valuation and explain economic rationales for each approach
 - calculate and interpret a justified price multiple
 - describe rationales for and possible drawbacks to using alternative price multiples and dividend yield in valuation
@@ -60,6 +93,15 @@
 
 
 # Residual Income Model 
+- [[ResidualIncome]] 
+- [[EconomicValueAdded]] 
+- [[MarketValueAdded]] 
+- [[EquityValuationUsingResidualIncomeModels]] 
+	- [[TobinsQ]] 
+	- [[JustifiedPBratio]] 
+	- Higher the value of omega, the longer it takes for RI to drop to 0.
+	 - Terminal value for the last leg is not considered in the valuation. Also initial book value needs to be added to get back the justified price of the stock. 
+## LOs
 - calculate and interpret residual income, economic value added, and market value added
 - describe the uses of residual income models
 - calculate the intrinsic value of a common stock using the residual income model and compare value recognition in residual income and other present value models
@@ -72,6 +114,38 @@
 - explain strengths and weaknesses of residual income models and justify the selection of a residual income model to value a company’s common stock
 - describe accounting issues in applying residual income models 
 # Private Company Valuation 
+- [[PrivateCompanyValuation]]
+- Normalised earnings: adjusting IS to reflect the IS after [[Acquisition]] 
+	- Value operating and non-operating separately and then add them together. 
+	- real-estate is removed and considered rented (added rent expense) and valued separately. 
+	- Strategic acquisition would also reduce synergy costs. 
+	- use different scnarios of future cash flow and add them together weighted on their probability of occurring.
+- Income-based 
+	- free cash flow : discounted income 
+	- capitalized free cash flow: Similar to multistage cash flow method for equity. 
+		- (r-g) is called the capitalization rate. 
+	- Excess earnings (residual income)
+		- earnings attributable to intangible assets. 
+		- normalized earnings - return from tangible assets 
+		- Using growth model we value the intangible asset and add that to the value of tangible assets to get the firm value. 
+	- capm, expanded capm, buildup method.
+- Market based 
+			- Guideline public company 
+				- control premium: additional cost for large shareholders., say 30%
+					- should only be multiplied with equity value not debt. 
+			- Guideline transactions 
+			   - Using comparable transactions estimate the value of MVIC / EBIT and use the same for the company in question. 
+			   - Considers full acquisition price. not partial
+			- Prior transaction methods. 
+	- Large companies usually use [[MarketValueOfInvestedCapital]] / EBIT or [[EBITDA]] 
+	- Smaller companies := MVIC / net income or revenue, 
+- Asset based 
+	- Instrisic value of the firm is the fair value of the assets - fair value of liabilities  - fair value of the preferred stocks. 
+	- Gives the minimum value since it does not consider growth prospects.
+- DLOC and DLOM 
+	- DLOC: Should take into consideration the accounting method, benchmark and the target. Usually GPCT are from the perspective of minority shareholders, so DLOC needs to be adjusted for the majority shareholder, not vice-verse. 
+	- They are not additive but multiplicative. 
+## LOs
 - compare public and private company valuation
 - describe uses of private business valuation and explain applications of greatest concern to financial analysts
 - explain cash flow estimation issues related to private companies and adjustments required to estimate normalized earnings

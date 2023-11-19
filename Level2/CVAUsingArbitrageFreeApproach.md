@@ -1,7 +1,6 @@
 #fixedIncome 
 
 
-
 The principles for calculating CVA remains the same, the only difference is that instead of assuming all spot rates fixed and zero interest rate volatility, we use interest rate tree to estimate Exposure (based on benchmark interest rate tree)
 
 See [[CreditRiskModelling]] and [[ValuationUsingInterestRateTree]]

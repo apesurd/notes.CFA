@@ -9,7 +9,7 @@ $$
 \mu_i = IC * \sigma_i * S_i
 $$
 
-## Calculate optimal active weights to achieve highest expected return.
+## Calculate optimal active weights to achieve maximum information ratio.
 
 $$
 \Delta w_i^* = \frac{\mu_i}{\sigma_i^2} \frac{\sigma_A}{IC\sqrt{BR}}

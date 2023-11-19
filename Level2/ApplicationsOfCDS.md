@@ -14,6 +14,7 @@ CDS Buyer is expecting that credit quality will go down, and hence the credit sp
 2. [[LongShortCreditTrades]]
 3. [[CurveTrade]]
 4. [[BasisTrade]]
+4.1. Another strategy is to determine credit risk from CDS market and then compare the bonds using the same strategy; buy the undervalued one and sell the over-valued one. 
 5. Anticipation of [[LeveragedBuyout]]
 6. Arbitrage opportunities in Index CDS 
 	If price of index is more/less than the sum of the price of the components, then arbitrage opportunity is available provided:

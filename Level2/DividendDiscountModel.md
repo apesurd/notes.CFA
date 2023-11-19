@@ -21,9 +21,6 @@ DISADVANTAGES
 
 ## ERP calculation
 - After rearrangement 
-$$
-
-$$
 
 $$ 
  \begin{split} 

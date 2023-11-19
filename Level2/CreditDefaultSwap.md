@@ -13,7 +13,10 @@ CDS market is unofficially governed by "Credit Swaps and Derivative Associations
 	   - Physical delivery: Notional 
 2. Expiration 
 3. Premium: Credit spread over the benchmark rate. Usually standardised to 1% (investment-grade bonds) and 5% (high-yield bonds), and the difference (discounted) is exchanged at the initiation. (i.e. upfront premium) 
-	See [[SettlementProtocol_CDS]]
+> [!Note]
+> Buyers needs to pass on all the proceeds based on the credit spread to the CDS seller. Usually it is netted and paid at the initiation, since CDS contains a standardised rate (1% or 5%)
+
+See [[SettlementProtocol_CDS]]
 
 ## Types of CDS 
 1. [[SingleNameCDS]]

@@ -9,7 +9,7 @@ It's a regression based unit root test based on a transformed version of AR(1) m
 $$
 x_t - x_{t-1} = b_0 + g_1x_{t-1} + \epsilon_t
 $$
-	where $g_1 = b_1 - 1$
+where $g_1 = b_1 - 1$
 If there is a unit root in the OG TS then $g_1$ will be equal to 0. 
 
 $H_0$ : TS has a unit root and is, thus, non stationary.

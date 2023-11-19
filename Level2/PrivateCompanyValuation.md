@@ -78,3 +78,4 @@ DONE BY: LEGAL PROFESSIONALS
 - Lost profits claims 
 - Divorce settlement 
 
+> [!Note] Better check out the videos to get a better understanding of the nuances.

@@ -1,12 +1,13 @@
 #fixedIncome 
 
-
 Credit risk is analogous to [[CreditValueAdjustment]] (CVA), which is subtracted from the value of the equivalent risk-free bond to get the value of the risky bond.   
 
 >[!Note] Calculation do seem hectic, but is spreadsheet friendly. 
 
+
+
 ## Useful definitions 
-1. [[HazardRate]]
+1. [[HazardRate]] (synonymous to risk-neutral probability of default.)
 2. [[ProbabilityOfDefault]]
 3. [[ExpectedExposure]]
 4. [[RecoveryRate]]

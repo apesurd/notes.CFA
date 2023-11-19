@@ -27,7 +27,7 @@ Creation/Redemption fees and other trading costs (brokerage, exchange fees, etc)
 + Bid-ask spread of UL securities 
 + Compensation to the AP for taking on the risk of carrying the trade until the close of trading 
 + AP's normal profit margin 
-+ Discount based on the probability of receiving an offsetting ETF order. 
+- Discount based on the probability of receiving an offsetting ETF order. 
 ```
 
 >[!Note] Market Illiquidity and volatility increase spreads for larger orders. 

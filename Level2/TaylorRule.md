@@ -15,7 +15,7 @@ $$
 	 & + 0.5(Y - Y^*)
  \end{split} 
 $$
-	where $\theta^*$ is target inflation and $Y^*$ is log of potential output. 
+where $\theta^*$ is target inflation and $Y^*$ is log of potential output. 
 
 ST real rate: rate the balances long-term savings and borrowings.
 

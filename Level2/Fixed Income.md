@@ -48,12 +48,16 @@
 - [[ValuationOfCallableNPutableBonds]]
 - [[EffectOfIROnOptionValue]] 
 - [[OptionAdjustedSpread]]
+- Which curve to take as reference for duration related questions?
+- [[ModifiedDuration]] 
 - [[EffectiveDuration]] 
-- [[EffectiveConvexity]]  
+- [[EffectiveConvexity]]  (not much intuition on this.)
 - [[OneSidedDurations]] 
 - [[KeyRateDuration]] 
+	- Does conversion price change as the market price of each outstanding share changes? No I think. 
 - [[ConvertibleBonds]] 
 - [[BustedConvertible]] and [[CommonStockEquivalents]] 
+- [[FlooredFloaters]] 
 ## LOs
 - describe fixed-income securities with embedded options
 - explain the relationships between the values of a callable or putable bond, the underlying option-free (straight) bond, and the embedded option
@@ -73,6 +77,25 @@
 - describe how a convertible bond is valued in an arbitrage-free framework
 - compare the risk–return characteristics of a convertible bond with the risk–return characteristics of a straight bond and of the underlying common stock 
 # Credit Analysis Models 
+- [[CreditRiskModelling]] 
+- Risk neutral default probability. $100=\frac{P*DefaultAmount + (1-P)*NoDefaultAmount}{DiscountFactor}$
+	- Discount factor is based on the risk-free rate. 
+- [[CreditRatings]] 
+- [[CreditSpread]] 
+- [[CreditSpreadTermStructure]] 
+- [[DeterminationOfCreditEvent]] 
+- [[CreditScoring]] 
+- [[CreditMigration]] (Look at the formula here.)
+	-  Credit spread migration typically reduces the expected return for two reasons. First, the probabilities for rating changes are not symmetrically distributed around the current rating; they are skewed toward a downgrade rather than an upgrade. Second, the increase in the credit spread is much larger for downgrades than is the decrease in the spread for upgrades.
+- [[CreditAnalysisModel]] 
+- [[CreditAnalysisOfSecuritizedDebt]] 
+- [[CoveredBond]] 
+- Structural and reduced form models 
+- Also checkout different form of analysing loans. Portfolio approach, statistics approach, etc. 
+- [[ApplicationsOfCDS]] 
+- 
+
+## LOs
 - explain expected exposure, the loss given default, the probability of default, and the credit valuation adjustment
 - explain credit scores and credit ratings
 - calculate the expected return on a bond given transition in its credit rating
@@ -82,6 +105,16 @@
 - explain the determinants of the term structure of credit spreads and interpret a term structure of credit spreads
 - compare the credit analysis required for securitized debt to the credit analysis of corporate debt
 # Credit Default Swaps
+- Protection buyer and protection seller. 
+	- [[CreditDefaultSwap]] 
+	- As soon as the insurance is exercised, the coverage ends. 
+	- There is OTC market for CDS as well. 
+		 - Unofficially governed by ISDA (International Swaps and Derivatives Association)
+	- Price of the CDS would change as the credit risk in the market fluctuates. 
+- [[DeterminationOfCreditEvent]] 
+- Generic question: Should the buyer go for physical or cash-settlement? 
+- 
+## LOs
 - describe credit default swaps (CDS), single-name and index CDS, and the parameters that define a given CDS product
 - describe credit events and settlement protocols with respect to CDS
 - explain the principles underlying and factors that influence the market’s pricing of CDS

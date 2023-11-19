@@ -7,6 +7,20 @@
 	2. [[FCFE]] : Free Cash Flow to the Equity 
 	   - Cash flow that can be redeployed outside the company. 
 
+
+## How to REMEMBER 
+### FCFF
+1. NI + NCC - $WC_{Inv}$  + Interest (1- T) - $FC_{Inv}$   
+1. EBIT (1 - T)  + NCC - $WC_{Inv}$  - $FC_{Inv}$   
+1. EBITDA (1 - T)  + Dep * T  -  $WC_{Inv}$  - $FC_{Inv}$   
+2. CFO  + Interest (1- T) - $FC_{Inv}$   
+
+![[Pasted image 20231116105257.png]]
+
+### FCFE 
+FCFF - Interest (1-T) - Principal repayments + net borrowings
+
+
 ## Advantage 
 1. Can be applied to the firms with no dividend history. 
 	- FCFE is a good proxy for what the company can afford to pay out. 

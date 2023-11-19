@@ -13,8 +13,9 @@ $$
 ## Probability  of Survival 
 
 $$
-
 (1 -HR)^{T-1} * HR
 $$
+>[!Doubt]
+>I think the formulas above are inverted.
 
 >[!Note] POS + POD not equal to 1. 

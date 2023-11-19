@@ -1,6 +1,6 @@
 #fixedIncome #bondsWithEmbeddedOptions 
 
-[[Floaters_FI]] with coupon rate capped. 
+[[Floaters_FI]] with "coupon rate" capped. 
 
 The value of capped floaters are less than straight floaters, since the investor gets the shorter end of the deal. 
 

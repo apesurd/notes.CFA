@@ -6,7 +6,7 @@ Portfolio manager can use two primary methods to create [[ActiveReturn]]
 2. Security selection return 
 	   Security selection (different weight for specific securities)
 		$$
-		= \sum (\beta_p - \beta_b)\lambda
+		Factor_return = \sum (\beta_p - \beta_b)\lambda
 	$$
 
 Active return is simply the sum of the above mentioned components. 
