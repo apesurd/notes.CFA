@@ -65,6 +65,11 @@
 - describe key ratios and other factors to consider in analyzing an insurance company
 
 # Evaluating Quality of Financial Reports 
+- [[FinancialReportsQuality]] 
+	- Baneish model: -1.78 likelihoood of earnings manipulation 
+	- [[AltmanModel]] : lower z-score, higher probability of bankruptcy 
+- [[PersistentEarnings]] 
+	- 
 - demonstrate the use of a conceptual framework for assessing the quality of a company’s financial reports
 - explain potential problems that affect the quality of financial reports
 - describe how to evaluate the quality of a company’s financial reports
@@ -80,6 +85,14 @@
 - describe sources of information about risk
 
 # Integration of Financial Statement Analysis Techniques 
+  Accruals-ratio 
+	  Accruals / [[NetOperatingAssets]] 
+	  - based on BS : Change in operating assets in a year  
+	  - based on CF: NI - CFO - CFI
+  - [[CGO]] / EBIT ratio 
+  - [[CashReturnOnTotalAssets]]
+  - [[ROIC]] and [[ROCE]]
+  - 
 - demonstrate the use of a framework for the analysis of financial statements, given a particular problem, question, or purpose (e.g., valuing equity based on comparables, critiquing a credit rating, obtaining a comprehensive picture of financial leverage, evaluating the perspectives given in management’s discussion of financial results)
 - identify financial reporting choices and biases that affect the quality and comparability of companies’ financial statements and explain how such biases may affect financial decisions
 - evaluate the quality of a company’s financial data and recommend appropriate adjustments to improve quality and comparability with similar companies, including adjustments for differences in accounting standards, methods, and assumptions

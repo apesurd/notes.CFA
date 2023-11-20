@@ -1,0 +1,1 @@
+[[CGO]] / Avg total assets. 
