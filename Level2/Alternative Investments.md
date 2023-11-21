@@ -10,6 +10,7 @@
 - [[ValuationOfREITs]] 
 - [[RealEstateInvestments]] 
 - [[EquityDividendRate]] : 
+- what is AFFO. 
 ## LOs
 - compare the characteristics, classifications, principal risks, and basic forms of public and private real estate investments
 - explain portfolio roles and economic value determinants of real estate investments
